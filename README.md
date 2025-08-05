@@ -96,7 +96,3 @@ Most bookings were made via offline travel agents, followed by direct bookings. 
 - **Customer Types**: Most bookings come from transient guests; very few are part of group bookings
 - **Peak Booking Months**: July and August show clear spikes, aligning with travel seasons
 
----
-
-## 📁 Project Structure
-
